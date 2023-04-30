@@ -1,0 +1,995 @@
+29.04.2023 19:33:40 [127.0.0.1]: 200 OK <- ./projectCurs/index.html
+29.04.2023 19:33:40 [127.0.0.1]: 200 OK <- ./projectCurs/assets/css/zeroing.css
+29.04.2023 19:33:40 [127.0.0.1]: 200 OK <- ./projectCurs/assets/css/style.css
+29.04.2023 19:33:40 [127.0.0.1]: 200 OK <- ./projectCurs/assets/js/camvas.js
+29.04.2023 19:33:40 [127.0.0.1]: 200 OK <- ./projectCurs/assets/js/pico.js
+29.04.2023 19:33:40 [127.0.0.1]: 200 OK <- ./projectCurs/assets/js/lploc.js
+29.04.2023 19:33:40 [127.0.0.1]: 200 OK <- ./projectCurs/assets/img/icon/fav.svg
+29.04.2023 19:33:40 [127.0.0.1]: 200 OK <- ./projectCurs/assets/img/icon/Property 1=sensors.svg
+29.04.2023 19:33:40 [127.0.0.1]: 200 OK <- ./projectCurs/assets/img/slider_right.svg
+29.04.2023 19:33:40 [127.0.0.1]: 200 OK <- ./projectCurs/assets/img/slider_left.svg
+29.04.2023 19:33:40 [127.0.0.1]: 200 OK <- ./projectCurs/assets/img/icon/cart.svg
+29.04.2023 19:33:41 [127.0.0.1]: 200 OK <- ./projectCurs/index.html
+29.04.2023 19:33:41 [127.0.0.1]: 200 OK <- ./projectCurs/assets/img/icon/user.svg
+29.04.2023 19:33:41 [127.0.0.1]: 200 OK <- ./projectCurs/assets/img/icon/Property 1=Phone.svg
+29.04.2023 19:33:52 [127.0.0.1]: 200 OK <- ./projectCurs/index.html
+29.04.2023 19:33:52 [127.0.0.1]: 200 OK <- ./projectCurs/assets/css/zeroing.css
+29.04.2023 19:33:52 [127.0.0.1]: 200 OK <- ./projectCurs/assets/css/style.css
+29.04.2023 19:33:52 [127.0.0.1]: 200 OK <- ./projectCurs/assets/js/camvas.js
+29.04.2023 19:33:52 [127.0.0.1]: 200 OK <- ./projectCurs/assets/js/pico.js
+29.04.2023 19:33:53 [127.0.0.1]: 200 OK <- ./projectCurs/assets/js/lploc.js
+29.04.2023 19:33:53 [127.0.0.1]: 200 OK <- ./projectCurs/assets/img/icon/Property 1=starters.svg
+29.04.2023 19:33:53 [127.0.0.1]: 200 OK <- ./projectCurs/assets/img/icon/Property 1=termostats.svg
+29.04.2023 19:33:53 [127.0.0.1]: 200 OK <- ./projectCurs/assets/img/icon/Property 1=generators.svg
+29.04.2023 19:33:53 [127.0.0.1]: 200 OK <- ./projectCurs/assets/img/Rectangle 312.png
+29.04.2023 19:33:53 [127.0.0.1]: 200 OK <- ./projectCurs/assets/img/slider_left.svg
+29.04.2023 19:33:53 [127.0.0.1]: 200 OK <- ./projectCurs/assets/img/slider_right.svg
+29.04.2023 19:33:53 [127.0.0.1]: 200 OK <- ./projectCurs/assets/img/icon/cart.svg
+29.04.2023 19:33:53 [127.0.0.1]: 200 OK <- ./projectCurs/assets/img/icon/user.svg
+29.04.2023 19:33:54 [127.0.0.1]: 200 OK <- ./projectCurs/assets/img/icon/fav.svg
+29.04.2023 19:33:54 [127.0.0.1]: 200 OK <- ./projectCurs/assets/img/icon/Property 1=sensors.svg
+29.04.2023 19:33:54 [127.0.0.1]: 200 OK <- ./projectCurs/assets/img/icon/Property 1=Phone.svg
+29.04.2023 19:33:54 [127.0.0.1]: 200 OK <- ./projectCurs/assets/js/main.js
+29.04.2023 19:33:54 [127.0.0.1]: 200 OK <- ./projectCurs/assets/img/logo.svg
+29.04.2023 19:33:54 [127.0.0.1]: 200 OK <- ./projectCurs/assets/img/icon/menu_white.svg
+29.04.2023 19:33:54 [127.0.0.1]: 200 OK <- ./projectCurs/assets/img/icon/search.svg
+29.04.2023 19:33:54 [127.0.0.1]: 200 OK <- ./projectCurs/assets/img/icon/Property 1=vk.svg
+29.04.2023 19:33:54 [127.0.0.1]: 200 OK <- ./projectCurs/assets/img/icon/Property 1=tgm.svg
+29.04.2023 19:33:54 [127.0.0.1]: 200 OK <- ./projectCurs/assets/img/icon/Property 1=lamps.svg
+29.04.2023 19:33:54 [127.0.0.1]: 200 OK <- ./projectCurs/assets/img/icon/Property 1=boileres.svg
+29.04.2023 19:33:54 [127.0.0.1]: 200 OK <- ./projectCurs/assets/img/news_picture.png
+29.04.2023 19:33:54 [127.0.0.1]: 200 OK <- ./projectCurs/assets/img/icon/Property 1=histoty.svg
+29.04.2023 19:33:54 [127.0.0.1]: 200 OK <- ./projectCurs/assets/img/Bestsellers_card_img.png
+29.04.2023 19:33:54 [127.0.0.1]: 200 OK <- ./projectCurs/assets/img/icon/cart_white.svg
+29.04.2023 19:33:55 [127.0.0.1]: 200 OK <- ./projectCurs/assets/img/dynamically_img.png
+29.04.2023 19:33:55 [127.0.0.1]: 200 OK <- ./projectCurs/assets/img/reliably_img.png
+29.04.2023 19:33:55 [127.0.0.1]: 200 OK <- ./projectCurs/assets/img/available_img.png
+29.04.2023 19:33:55 [127.0.0.1]: 200 OK <- ./projectCurs/assets/img/icon/arrow_to_down.svg
+29.04.2023 19:33:55 [127.0.0.1]: 200 OK <- ./projectCurs/assets/img/icon/slider_arrow.svg
+29.04.2023 19:33:55 [127.0.0.1]: 200 OK <- ./projectCurs/assets/img/Banner.png
+29.04.2023 19:33:55 [127.0.0.1]: 200 OK <- ./projectCurs/assets/img/Freight_card_img.png
+29.04.2023 19:33:55 [127.0.0.1]: 200 OK <- ./projectCurs/assets/img/Tractor_card_img.png
+29.04.2023 19:33:55 [127.0.0.1]: 200 OK <- ./projectCurs/assets/img/Cars_card_img.png
+29.04.2023 19:33:55 [127.0.0.1]: 200 OK <- ./projectCurs/assets/img/Agricultural_machinery_card_img.png
+29.04.2023 19:33:55 [127.0.0.1]: 200 OK <- ./projectCurs/assets/img/Buses_card_img.png
+29.04.2023 19:33:55 [127.0.0.1]: 200 OK <- ./projectCurs/assets/img/Special_equipment_card_img.png
+29.04.2023 19:33:55 [127.0.0.1]: 200 OK <- ./projectCurs/assets/img/Other_card_img.png
+29.04.2023 19:34:08 [127.0.0.1]: 200 OK <- ./projectCurs/index.html
+29.04.2023 19:34:08 [127.0.0.1]: 200 OK <- ./projectCurs/assets/css/zeroing.css
+29.04.2023 19:34:09 [127.0.0.1]: 200 OK <- ./projectCurs/assets/css/style.css
+29.04.2023 19:34:09 [127.0.0.1]: 200 OK <- ./projectCurs/assets/js/camvas.js
+29.04.2023 19:34:09 [127.0.0.1]: 200 OK <- ./projectCurs/assets/js/pico.js
+29.04.2023 19:34:09 [127.0.0.1]: 200 OK <- ./projectCurs/assets/js/lploc.js
+29.04.2023 19:34:10 [127.0.0.1]: 200 OK <- ./projectCurs/assets/img/icon/fav.svg
+29.04.2023 19:34:10 [127.0.0.1]: 200 OK <- ./projectCurs/assets/img/slider_right.svg
+29.04.2023 19:34:10 [127.0.0.1]: 200 OK <- ./projectCurs/assets/img/icon/cart.svg
+29.04.2023 19:34:10 [127.0.0.1]: 200 OK <- ./projectCurs/assets/img/icon/Property 1=starters.svg
+29.04.2023 19:34:10 [127.0.0.1]: 200 OK <- ./projectCurs/assets/img/icon/Property 1=generators.svg
+29.04.2023 19:34:10 [127.0.0.1]: 200 OK <- ./projectCurs/assets/img/icon/Property 1=sensors.svg
+29.04.2023 19:34:10 [127.0.0.1]: 200 OK <- ./projectCurs/assets/img/icon/Property 1=termostats.svg
+29.04.2023 19:34:10 [127.0.0.1]: 200 OK <- ./projectCurs/assets/img/icon/Property 1=Phone.svg
+29.04.2023 19:34:10 [127.0.0.1]: 200 OK <- ./projectCurs/assets/img/slider_left.svg
+29.04.2023 19:34:10 [127.0.0.1]: 200 OK <- ./projectCurs/assets/img/icon/user.svg
+29.04.2023 19:34:10 [127.0.0.1]: 200 OK <- ./projectCurs/assets/img/Rectangle 312.png
+29.04.2023 19:34:11 [127.0.0.1]: 200 OK <- ./projectCurs/assets/js/main.js
+29.04.2023 19:34:11 [127.0.0.1]: 200 OK <- ./projectCurs/assets/img/logo.svg
+29.04.2023 19:34:11 [127.0.0.1]: 200 OK <- ./projectCurs/assets/img/icon/menu_white.svg
+29.04.2023 19:34:11 [127.0.0.1]: 200 OK <- ./projectCurs/assets/img/icon/search.svg
+29.04.2023 19:34:11 [127.0.0.1]: 200 OK <- ./projectCurs/assets/img/icon/Property 1=tgm.svg
+29.04.2023 19:34:11 [127.0.0.1]: 200 OK <- ./projectCurs/assets/img/icon/Property 1=vk.svg
+29.04.2023 19:34:11 [127.0.0.1]: 200 OK <- ./projectCurs/assets/img/icon/Property 1=lamps.svg
+29.04.2023 19:34:11 [127.0.0.1]: 200 OK <- ./projectCurs/assets/img/icon/Property 1=boileres.svg
+29.04.2023 19:34:11 [127.0.0.1]: 200 OK <- ./projectCurs/assets/img/news_picture.png
+29.04.2023 19:34:11 [127.0.0.1]: 200 OK <- ./projectCurs/assets/img/icon/Property 1=histoty.svg
+29.04.2023 19:34:11 [127.0.0.1]: 200 OK <- ./projectCurs/assets/img/Bestsellers_card_img.png
+29.04.2023 19:34:11 [127.0.0.1]: 200 OK <- ./projectCurs/assets/img/icon/cart_white.svg
+29.04.2023 19:34:12 [127.0.0.1]: 200 OK <- ./projectCurs/assets/img/dynamically_img.png
+29.04.2023 19:34:12 [127.0.0.1]: 200 OK <- ./projectCurs/assets/img/reliably_img.png
+29.04.2023 19:34:12 [127.0.0.1]: 200 OK <- ./projectCurs/assets/img/available_img.png
+29.04.2023 19:34:12 [127.0.0.1]: 200 OK <- ./projectCurs/assets/img/icon/arrow_to_down.svg
+29.04.2023 19:34:12 [127.0.0.1]: 200 OK <- ./projectCurs/assets/img/icon/slider_arrow.svg
+29.04.2023 19:34:12 [127.0.0.1]: 200 OK <- ./projectCurs/assets/img/Banner.png
+29.04.2023 19:34:12 [127.0.0.1]: 200 OK <- ./projectCurs/assets/img/Freight_card_img.png
+29.04.2023 19:34:12 [127.0.0.1]: 200 OK <- ./projectCurs/assets/img/Tractor_card_img.png
+29.04.2023 19:34:12 [127.0.0.1]: 200 OK <- ./projectCurs/assets/img/Cars_card_img.png
+29.04.2023 19:34:12 [127.0.0.1]: 200 OK <- ./projectCurs/assets/img/Agricultural_machinery_card_img.png
+29.04.2023 19:34:12 [127.0.0.1]: 200 OK <- ./projectCurs/assets/img/Buses_card_img.png
+29.04.2023 19:34:12 [127.0.0.1]: 200 OK <- ./projectCurs/assets/img/Special_equipment_card_img.png
+29.04.2023 19:34:12 [127.0.0.1]: 200 OK <- ./projectCurs/assets/img/Other_card_img.png
+29.04.2023 19:37:06 [127.0.0.1]: 200 OK <- ./index.html
+29.04.2023 19:37:34 [127.0.0.1]: 200 OK <- ./index.html
+29.04.2023 19:38:41 [127.0.0.1]: 200 OK <- ./index.html
+29.04.2023 19:38:41 [127.0.0.1]: 200 OK <- ./index.html
+29.04.2023 19:38:43 [127.0.0.1]: 200 OK <- ./index.html
+29.04.2023 19:39:18 [127.0.0.1]: 200 OK <- ./index.html
+29.04.2023 19:39:19 [127.0.0.1]: 200 OK <- ./index.html
+29.04.2023 19:41:42 [127.0.0.1]: 200 OK <- ./index.html
+29.04.2023 19:43:04 [127.0.0.1]: 200 OK <- ./index.html
+29.04.2023 19:43:04 [127.0.0.1]: 200 OK <- ./index.html
+29.04.2023 19:43:08 [127.0.0.1]: 200 OK <- ./index.html
+29.04.2023 20:09:11 [127.0.0.1]: 200 OK <- ./index.html
+29.04.2023 20:09:18 [127.0.0.1]: 200 OK <- ./index.html
+29.04.2023 20:14:23 [127.0.0.1]: 200 OK <- C:\Users\Radzivill\Desktop\Homework\NLIIS\Лаб №2 - Copy\EYAZIS_2_2\EYAZIS_2_2\EYAZIS\Project_2\templates\staticfiles\index.html
+29.04.2023 20:14:23 [127.0.0.1]: 404 Not Found <- C:\Users\Radzivill\Desktop\Homework\NLIIS\Лаб №2 - Copy\EYAZIS_2_2\EYAZIS_2_2\EYAZIS\Project_2\templates\staticfiles\{% static 'css/zeroing.css' %}
+29.04.2023 20:14:23 [127.0.0.1]: 404 Not Found <- C:\Users\Radzivill\Desktop\Homework\NLIIS\Лаб №2 - Copy\EYAZIS_2_2\EYAZIS_2_2\EYAZIS\Project_2\templates\staticfiles\{% static 'css/style.css' %}
+29.04.2023 20:14:23 [127.0.0.1]: 404 Not Found <- C:\Users\Radzivill\Desktop\Homework\NLIIS\Лаб №2 - Copy\EYAZIS_2_2\EYAZIS_2_2\EYAZIS\Project_2\templates\staticfiles\{% static 'js/jquery.js' %}
+29.04.2023 20:14:23 [127.0.0.1]: 404 Not Found <- C:\Users\Radzivill\Desktop\Homework\NLIIS\Лаб №2 - Copy\EYAZIS_2_2\EYAZIS_2_2\EYAZIS\Project_2\templates\staticfiles\{% static 'img/question_circle_icon_246255.svg' %}
+29.04.2023 20:14:23 [127.0.0.1]: 404 Not Found <- C:\Users\Radzivill\Desktop\Homework\NLIIS\Лаб №2 - Copy\EYAZIS_2_2\EYAZIS_2_2\EYAZIS\Project_2\templates\staticfiles\{% static 'js/main.js' %}
+29.04.2023 20:15:14 [127.0.0.1]: 200 OK <- C:\Users\Radzivill\Desktop\Homework\Course\ProjectCurs (2)\ProjectCurs\index.html
+29.04.2023 20:15:14 [127.0.0.1]: 200 OK <- C:\Users\Radzivill\Desktop\Homework\Course\ProjectCurs (2)\ProjectCurs\assets/css/zeroing.css
+29.04.2023 20:15:14 [127.0.0.1]: 200 OK <- C:\Users\Radzivill\Desktop\Homework\Course\ProjectCurs (2)\ProjectCurs\assets/js/camvas.js
+29.04.2023 20:15:14 [127.0.0.1]: 200 OK <- C:\Users\Radzivill\Desktop\Homework\Course\ProjectCurs (2)\ProjectCurs\assets/css/style.css
+29.04.2023 20:15:14 [127.0.0.1]: 200 OK <- C:\Users\Radzivill\Desktop\Homework\Course\ProjectCurs (2)\ProjectCurs\assets/js/pico.js
+29.04.2023 20:15:15 [127.0.0.1]: 200 OK <- C:\Users\Radzivill\Desktop\Homework\Course\ProjectCurs (2)\ProjectCurs\assets/js/main.js
+29.04.2023 20:15:15 [127.0.0.1]: 200 OK <- C:\Users\Radzivill\Desktop\Homework\Course\ProjectCurs (2)\ProjectCurs\assets/js/lploc.js
+29.04.2023 20:15:15 [127.0.0.1]: 200 OK <- C:\Users\Radzivill\Desktop\Homework\Course\ProjectCurs (2)\ProjectCurs\assets/img/icon/cart.svg
+29.04.2023 20:15:15 [127.0.0.1]: 200 OK <- C:\Users\Radzivill\Desktop\Homework\Course\ProjectCurs (2)\ProjectCurs\assets/img/icon/fav.svg
+29.04.2023 20:15:15 [127.0.0.1]: 200 OK <- C:\Users\Radzivill\Desktop\Homework\Course\ProjectCurs (2)\ProjectCurs\assets/img/slider_right.svg
+29.04.2023 20:15:15 [127.0.0.1]: 200 OK <- C:\Users\Radzivill\Desktop\Homework\Course\ProjectCurs (2)\ProjectCurs\assets/img/slider_left.svg
+29.04.2023 20:15:15 [127.0.0.1]: 200 OK <- C:\Users\Radzivill\Desktop\Homework\Course\ProjectCurs (2)\ProjectCurs\assets/img/icon/user.svg
+29.04.2023 20:15:15 [127.0.0.1]: 200 OK <- C:\Users\Radzivill\Desktop\Homework\Course\ProjectCurs (2)\ProjectCurs\assets/img/icon/Property 1=boileres.svg
+29.04.2023 20:15:15 [127.0.0.1]: 200 OK <- C:\Users\Radzivill\Desktop\Homework\Course\ProjectCurs (2)\ProjectCurs\assets/img/icon/Property 1=termostats.svg
+29.04.2023 20:15:15 [127.0.0.1]: 200 OK <- C:\Users\Radzivill\Desktop\Homework\Course\ProjectCurs (2)\ProjectCurs\assets/img/icon/Property 1=starters.svg
+29.04.2023 20:15:15 [127.0.0.1]: 200 OK <- C:\Users\Radzivill\Desktop\Homework\Course\ProjectCurs (2)\ProjectCurs\assets/img/Rectangle 312.png
+29.04.2023 20:15:15 [127.0.0.1]: 200 OK <- C:\Users\Radzivill\Desktop\Homework\Course\ProjectCurs (2)\ProjectCurs\assets/img/icon/Property 1=generators.svg
+29.04.2023 20:15:16 [127.0.0.1]: 200 OK <- C:\Users\Radzivill\Desktop\Homework\Course\ProjectCurs (2)\ProjectCurs\assets/img/icon/Property 1=sensors.svg
+29.04.2023 20:15:16 [127.0.0.1]: 200 OK <- C:\Users\Radzivill\Desktop\Homework\Course\ProjectCurs (2)\ProjectCurs\assets/img/icon/Property 1=lamps.svg
+29.04.2023 20:15:16 [127.0.0.1]: 200 OK <- C:\Users\Radzivill\Desktop\Homework\Course\ProjectCurs (2)\ProjectCurs\assets/img/logo.svg
+29.04.2023 20:15:16 [127.0.0.1]: 200 OK <- C:\Users\Radzivill\Desktop\Homework\Course\ProjectCurs (2)\ProjectCurs\assets/img/icon/menu_white.svg
+29.04.2023 20:15:16 [127.0.0.1]: 200 OK <- C:\Users\Radzivill\Desktop\Homework\Course\ProjectCurs (2)\ProjectCurs\assets/img/icon/search.svg
+29.04.2023 20:15:16 [127.0.0.1]: 200 OK <- C:\Users\Radzivill\Desktop\Homework\Course\ProjectCurs (2)\ProjectCurs\assets/img/icon/Property 1=vk.svg
+29.04.2023 20:15:16 [127.0.0.1]: 200 OK <- C:\Users\Radzivill\Desktop\Homework\Course\ProjectCurs (2)\ProjectCurs\assets/img/icon/Property 1=tgm.svg
+29.04.2023 20:15:16 [127.0.0.1]: 200 OK <- C:\Users\Radzivill\Desktop\Homework\Course\ProjectCurs (2)\ProjectCurs\assets/img/icon/Property 1=Phone.svg
+29.04.2023 20:15:16 [127.0.0.1]: 200 OK <- C:\Users\Radzivill\Desktop\Homework\Course\ProjectCurs (2)\ProjectCurs\assets/img/news_picture.png
+29.04.2023 20:15:16 [127.0.0.1]: 200 OK <- C:\Users\Radzivill\Desktop\Homework\Course\ProjectCurs (2)\ProjectCurs\assets/img/icon/Property 1=histoty.svg
+29.04.2023 20:15:16 [127.0.0.1]: 200 OK <- C:\Users\Radzivill\Desktop\Homework\Course\ProjectCurs (2)\ProjectCurs\assets/img/Bestsellers_card_img.png
+29.04.2023 20:15:16 [127.0.0.1]: 200 OK <- C:\Users\Radzivill\Desktop\Homework\Course\ProjectCurs (2)\ProjectCurs\assets/img/icon/cart_white.svg
+29.04.2023 20:15:16 [127.0.0.1]: 200 OK <- C:\Users\Radzivill\Desktop\Homework\Course\ProjectCurs (2)\ProjectCurs\assets/img/dynamically_img.png
+29.04.2023 20:15:16 [127.0.0.1]: 200 OK <- C:\Users\Radzivill\Desktop\Homework\Course\ProjectCurs (2)\ProjectCurs\assets/img/reliably_img.png
+29.04.2023 20:15:16 [127.0.0.1]: 200 OK <- C:\Users\Radzivill\Desktop\Homework\Course\ProjectCurs (2)\ProjectCurs\assets/img/available_img.png
+29.04.2023 20:15:17 [127.0.0.1]: 200 OK <- C:\Users\Radzivill\Desktop\Homework\Course\ProjectCurs (2)\ProjectCurs\assets/img/icon/slider_arrow.svg
+29.04.2023 20:15:17 [127.0.0.1]: 200 OK <- C:\Users\Radzivill\Desktop\Homework\Course\ProjectCurs (2)\ProjectCurs\assets/img/icon/arrow_to_down.svg
+29.04.2023 20:15:17 [127.0.0.1]: 200 OK <- C:\Users\Radzivill\Desktop\Homework\Course\ProjectCurs (2)\ProjectCurs\assets/img/Banner.png
+29.04.2023 20:15:17 [127.0.0.1]: 200 OK <- C:\Users\Radzivill\Desktop\Homework\Course\ProjectCurs (2)\ProjectCurs\assets/img/Freight_card_img.png
+29.04.2023 20:15:17 [127.0.0.1]: 200 OK <- C:\Users\Radzivill\Desktop\Homework\Course\ProjectCurs (2)\ProjectCurs\assets/img/Tractor_card_img.png
+29.04.2023 20:15:17 [127.0.0.1]: 200 OK <- C:\Users\Radzivill\Desktop\Homework\Course\ProjectCurs (2)\ProjectCurs\assets/img/Cars_card_img.png
+29.04.2023 20:15:17 [127.0.0.1]: 200 OK <- C:\Users\Radzivill\Desktop\Homework\Course\ProjectCurs (2)\ProjectCurs\assets/img/Agricultural_machinery_card_img.png
+29.04.2023 20:15:17 [127.0.0.1]: 200 OK <- C:\Users\Radzivill\Desktop\Homework\Course\ProjectCurs (2)\ProjectCurs\assets/img/Buses_card_img.png
+29.04.2023 20:15:17 [127.0.0.1]: 200 OK <- C:\Users\Radzivill\Desktop\Homework\Course\ProjectCurs (2)\ProjectCurs\assets/img/Special_equipment_card_img.png
+29.04.2023 20:15:18 [127.0.0.1]: 200 OK <- C:\Users\Radzivill\Desktop\Homework\Course\ProjectCurs (2)\ProjectCurs\assets/img/Other_card_img.png
+29.04.2023 20:15:20 [127.0.0.1]: 200 OK <- C:\Users\Radzivill\Desktop\Homework\Course\ProjectCurs (2)\ProjectCurs\assets/img/icon/user_orange.svg
+29.04.2023 21:09:04 [127.0.0.1]: 200 OK <- C:\Users\Radzivill\Desktop\Homework\Course\ProjectCurs (2)\ProjectCurs\index.html
+29.04.2023 21:09:04 [127.0.0.1]: 200 OK <- C:\Users\Radzivill\Desktop\Homework\Course\ProjectCurs (2)\ProjectCurs\assets/css/zeroing.css
+29.04.2023 21:09:04 [127.0.0.1]: 200 OK <- C:\Users\Radzivill\Desktop\Homework\Course\ProjectCurs (2)\ProjectCurs\assets/css/style.css
+29.04.2023 21:09:04 [127.0.0.1]: 200 OK <- C:\Users\Radzivill\Desktop\Homework\Course\ProjectCurs (2)\ProjectCurs\assets/js/camvas.js
+29.04.2023 21:09:04 [127.0.0.1]: 200 OK <- C:\Users\Radzivill\Desktop\Homework\Course\ProjectCurs (2)\ProjectCurs\assets/js/pico.js
+29.04.2023 21:09:05 [127.0.0.1]: 200 OK <- C:\Users\Radzivill\Desktop\Homework\Course\ProjectCurs (2)\ProjectCurs\assets/js/lploc.js
+29.04.2023 21:09:05 [127.0.0.1]: 200 OK <- C:\Users\Radzivill\Desktop\Homework\Course\ProjectCurs (2)\ProjectCurs\assets/img/slider_left.svg
+29.04.2023 21:09:05 [127.0.0.1]: 200 OK <- C:\Users\Radzivill\Desktop\Homework\Course\ProjectCurs (2)\ProjectCurs\assets/img/icon/Property 1=starters.svg
+29.04.2023 21:09:05 [127.0.0.1]: 200 OK <- C:\Users\Radzivill\Desktop\Homework\Course\ProjectCurs (2)\ProjectCurs\assets/img/icon/Property 1=sensors.svg
+29.04.2023 21:09:05 [127.0.0.1]: 200 OK <- C:\Users\Radzivill\Desktop\Homework\Course\ProjectCurs (2)\ProjectCurs\assets/img/icon/Property 1=termostats.svg
+29.04.2023 21:09:05 [127.0.0.1]: 200 OK <- C:\Users\Radzivill\Desktop\Homework\Course\ProjectCurs (2)\ProjectCurs\assets/img/icon/cart.svg
+29.04.2023 21:09:06 [127.0.0.1]: 200 OK <- C:\Users\Radzivill\Desktop\Homework\Course\ProjectCurs (2)\ProjectCurs\assets/img/icon/user.svg
+29.04.2023 21:09:06 [127.0.0.1]: 200 OK <- C:\Users\Radzivill\Desktop\Homework\Course\ProjectCurs (2)\ProjectCurs\assets/img/Rectangle 312.png
+29.04.2023 21:09:06 [127.0.0.1]: 200 OK <- C:\Users\Radzivill\Desktop\Homework\Course\ProjectCurs (2)\ProjectCurs\assets/img/icon/fav.svg
+29.04.2023 21:09:06 [127.0.0.1]: 200 OK <- C:\Users\Radzivill\Desktop\Homework\Course\ProjectCurs (2)\ProjectCurs\assets/img/icon/Property 1=generators.svg
+29.04.2023 21:09:06 [127.0.0.1]: 200 OK <- C:\Users\Radzivill\Desktop\Homework\Course\ProjectCurs (2)\ProjectCurs\assets/img/slider_right.svg
+29.04.2023 21:09:06 [127.0.0.1]: 200 OK <- C:\Users\Radzivill\Desktop\Homework\Course\ProjectCurs (2)\ProjectCurs\assets/img/icon/Property 1=Phone.svg
+29.04.2023 21:09:06 [127.0.0.1]: 200 OK <- C:\Users\Radzivill\Desktop\Homework\Course\ProjectCurs (2)\ProjectCurs\assets/js/main.js
+29.04.2023 21:09:06 [127.0.0.1]: 200 OK <- C:\Users\Radzivill\Desktop\Homework\Course\ProjectCurs (2)\ProjectCurs\assets/img/logo.svg
+29.04.2023 21:09:06 [127.0.0.1]: 200 OK <- C:\Users\Radzivill\Desktop\Homework\Course\ProjectCurs (2)\ProjectCurs\assets/img/icon/menu_white.svg
+29.04.2023 21:09:06 [127.0.0.1]: 200 OK <- C:\Users\Radzivill\Desktop\Homework\Course\ProjectCurs (2)\ProjectCurs\assets/img/icon/search.svg
+29.04.2023 21:09:06 [127.0.0.1]: 200 OK <- C:\Users\Radzivill\Desktop\Homework\Course\ProjectCurs (2)\ProjectCurs\assets/img/icon/Property 1=vk.svg
+29.04.2023 21:09:06 [127.0.0.1]: 200 OK <- C:\Users\Radzivill\Desktop\Homework\Course\ProjectCurs (2)\ProjectCurs\assets/img/icon/Property 1=tgm.svg
+29.04.2023 21:09:06 [127.0.0.1]: 200 OK <- C:\Users\Radzivill\Desktop\Homework\Course\ProjectCurs (2)\ProjectCurs\assets/img/icon/Property 1=lamps.svg
+29.04.2023 21:09:06 [127.0.0.1]: 200 OK <- C:\Users\Radzivill\Desktop\Homework\Course\ProjectCurs (2)\ProjectCurs\assets/img/icon/Property 1=boileres.svg
+29.04.2023 21:09:06 [127.0.0.1]: 200 OK <- C:\Users\Radzivill\Desktop\Homework\Course\ProjectCurs (2)\ProjectCurs\assets/img/news_picture.png
+29.04.2023 21:09:06 [127.0.0.1]: 200 OK <- C:\Users\Radzivill\Desktop\Homework\Course\ProjectCurs (2)\ProjectCurs\assets/img/icon/Property 1=histoty.svg
+29.04.2023 21:09:06 [127.0.0.1]: 200 OK <- C:\Users\Radzivill\Desktop\Homework\Course\ProjectCurs (2)\ProjectCurs\assets/img/Bestsellers_card_img.png
+29.04.2023 21:09:06 [127.0.0.1]: 200 OK <- C:\Users\Radzivill\Desktop\Homework\Course\ProjectCurs (2)\ProjectCurs\assets/img/icon/cart_white.svg
+29.04.2023 21:09:06 [127.0.0.1]: 200 OK <- C:\Users\Radzivill\Desktop\Homework\Course\ProjectCurs (2)\ProjectCurs\assets/img/dynamically_img.png
+29.04.2023 21:09:07 [127.0.0.1]: 200 OK <- C:\Users\Radzivill\Desktop\Homework\Course\ProjectCurs (2)\ProjectCurs\assets/img/reliably_img.png
+29.04.2023 21:09:07 [127.0.0.1]: 200 OK <- C:\Users\Radzivill\Desktop\Homework\Course\ProjectCurs (2)\ProjectCurs\assets/img/available_img.png
+29.04.2023 21:09:07 [127.0.0.1]: 200 OK <- C:\Users\Radzivill\Desktop\Homework\Course\ProjectCurs (2)\ProjectCurs\assets/img/icon/arrow_to_down.svg
+29.04.2023 21:09:07 [127.0.0.1]: 200 OK <- C:\Users\Radzivill\Desktop\Homework\Course\ProjectCurs (2)\ProjectCurs\assets/img/icon/slider_arrow.svg
+29.04.2023 21:09:07 [127.0.0.1]: 200 OK <- C:\Users\Radzivill\Desktop\Homework\Course\ProjectCurs (2)\ProjectCurs\assets/img/Banner.png
+29.04.2023 21:09:07 [127.0.0.1]: 200 OK <- C:\Users\Radzivill\Desktop\Homework\Course\ProjectCurs (2)\ProjectCurs\assets/img/Freight_card_img.png
+29.04.2023 21:09:07 [127.0.0.1]: 200 OK <- C:\Users\Radzivill\Desktop\Homework\Course\ProjectCurs (2)\ProjectCurs\assets/img/Tractor_card_img.png
+29.04.2023 21:09:07 [127.0.0.1]: 200 OK <- C:\Users\Radzivill\Desktop\Homework\Course\ProjectCurs (2)\ProjectCurs\assets/img/Cars_card_img.png
+29.04.2023 21:09:07 [127.0.0.1]: 200 OK <- C:\Users\Radzivill\Desktop\Homework\Course\ProjectCurs (2)\ProjectCurs\assets/img/Agricultural_machinery_card_img.png
+29.04.2023 21:09:07 [127.0.0.1]: 200 OK <- C:\Users\Radzivill\Desktop\Homework\Course\ProjectCurs (2)\ProjectCurs\assets/img/Buses_card_img.png
+29.04.2023 21:09:07 [127.0.0.1]: 200 OK <- C:\Users\Radzivill\Desktop\Homework\Course\ProjectCurs (2)\ProjectCurs\assets/img/Special_equipment_card_img.png
+29.04.2023 21:09:07 [127.0.0.1]: 200 OK <- C:\Users\Radzivill\Desktop\Homework\Course\ProjectCurs (2)\ProjectCurs\assets/img/Other_card_img.png
+29.04.2023 21:10:06 [127.0.0.1]: 200 OK <- C:\Users\Radzivill\Desktop\Homework\Course\ProjectCurs (2)\ProjectCurs\index.html
+29.04.2023 21:10:06 [127.0.0.1]: 200 OK <- C:\Users\Radzivill\Desktop\Homework\Course\ProjectCurs (2)\ProjectCurs\assets/css/zeroing.css
+29.04.2023 21:10:06 [127.0.0.1]: 200 OK <- C:\Users\Radzivill\Desktop\Homework\Course\ProjectCurs (2)\ProjectCurs\assets/css/style.css
+29.04.2023 21:10:06 [127.0.0.1]: 200 OK <- C:\Users\Radzivill\Desktop\Homework\Course\ProjectCurs (2)\ProjectCurs\assets/js/pico.js
+29.04.2023 21:10:06 [127.0.0.1]: 200 OK <- C:\Users\Radzivill\Desktop\Homework\Course\ProjectCurs (2)\ProjectCurs\assets/js/camvas.js
+29.04.2023 21:10:06 [127.0.0.1]: 200 OK <- C:\Users\Radzivill\Desktop\Homework\Course\ProjectCurs (2)\ProjectCurs\assets/js/lploc.js
+29.04.2023 21:10:06 [127.0.0.1]: 200 OK <- C:\Users\Radzivill\Desktop\Homework\Course\ProjectCurs (2)\ProjectCurs\assets/js/main.js
+29.04.2023 21:10:07 [127.0.0.1]: 200 OK <- C:\Users\Radzivill\Desktop\Homework\Course\ProjectCurs (2)\ProjectCurs\assets/img/logo.svg
+29.04.2023 21:10:07 [127.0.0.1]: 200 OK <- C:\Users\Radzivill\Desktop\Homework\Course\ProjectCurs (2)\ProjectCurs\assets/img/icon/menu_white.svg
+29.04.2023 21:10:07 [127.0.0.1]: 200 OK <- C:\Users\Radzivill\Desktop\Homework\Course\ProjectCurs (2)\ProjectCurs\assets/img/slider_left.svg
+29.04.2023 21:10:08 [127.0.0.1]: 200 OK <- C:\Users\Radzivill\Desktop\Homework\Course\ProjectCurs (2)\ProjectCurs\assets/img/slider_right.svg
+29.04.2023 21:10:08 [127.0.0.1]: 200 OK <- C:\Users\Radzivill\Desktop\Homework\Course\ProjectCurs (2)\ProjectCurs\assets/img/icon/cart.svg
+29.04.2023 21:10:08 [127.0.0.1]: 200 OK <- C:\Users\Radzivill\Desktop\Homework\Course\ProjectCurs (2)\ProjectCurs\assets/img/icon/user.svg
+29.04.2023 21:10:08 [127.0.0.1]: 200 OK <- C:\Users\Radzivill\Desktop\Homework\Course\ProjectCurs (2)\ProjectCurs\assets/img/icon/fav.svg
+29.04.2023 21:10:08 [127.0.0.1]: 200 OK <- C:\Users\Radzivill\Desktop\Homework\Course\ProjectCurs (2)\ProjectCurs\assets/img/icon/Property 1=tgm.svg
+29.04.2023 21:10:08 [127.0.0.1]: 200 OK <- C:\Users\Radzivill\Desktop\Homework\Course\ProjectCurs (2)\ProjectCurs\assets/img/icon/search.svg
+29.04.2023 21:10:08 [127.0.0.1]: 200 OK <- C:\Users\Radzivill\Desktop\Homework\Course\ProjectCurs (2)\ProjectCurs\assets/img/icon/Property 1=vk.svg
+29.04.2023 21:10:08 [127.0.0.1]: 200 OK <- C:\Users\Radzivill\Desktop\Homework\Course\ProjectCurs (2)\ProjectCurs\assets/img/icon/Property 1=Phone.svg
+29.04.2023 21:10:08 [127.0.0.1]: 200 OK <- C:\Users\Radzivill\Desktop\Homework\Course\ProjectCurs (2)\ProjectCurs\assets/img/Rectangle 312.png
+29.04.2023 21:10:08 [127.0.0.1]: 200 OK <- C:\Users\Radzivill\Desktop\Homework\Course\ProjectCurs (2)\ProjectCurs\assets/img/icon/Property 1=starters.svg
+29.04.2023 21:10:08 [127.0.0.1]: 200 OK <- C:\Users\Radzivill\Desktop\Homework\Course\ProjectCurs (2)\ProjectCurs\assets/img/icon/Property 1=termostats.svg
+29.04.2023 21:10:08 [127.0.0.1]: 200 OK <- C:\Users\Radzivill\Desktop\Homework\Course\ProjectCurs (2)\ProjectCurs\assets/img/icon/Property 1=sensors.svg
+29.04.2023 21:10:08 [127.0.0.1]: 200 OK <- C:\Users\Radzivill\Desktop\Homework\Course\ProjectCurs (2)\ProjectCurs\assets/img/icon/Property 1=generators.svg
+29.04.2023 21:10:09 [127.0.0.1]: 200 OK <- C:\Users\Radzivill\Desktop\Homework\Course\ProjectCurs (2)\ProjectCurs\assets/img/icon/Property 1=lamps.svg
+29.04.2023 21:10:09 [127.0.0.1]: 200 OK <- C:\Users\Radzivill\Desktop\Homework\Course\ProjectCurs (2)\ProjectCurs\assets/img/icon/Property 1=boileres.svg
+29.04.2023 21:10:09 [127.0.0.1]: 200 OK <- C:\Users\Radzivill\Desktop\Homework\Course\ProjectCurs (2)\ProjectCurs\assets/img/news_picture.png
+29.04.2023 21:10:09 [127.0.0.1]: 200 OK <- C:\Users\Radzivill\Desktop\Homework\Course\ProjectCurs (2)\ProjectCurs\assets/img/icon/Property 1=histoty.svg
+29.04.2023 21:10:09 [127.0.0.1]: 200 OK <- C:\Users\Radzivill\Desktop\Homework\Course\ProjectCurs (2)\ProjectCurs\assets/img/Bestsellers_card_img.png
+29.04.2023 21:10:09 [127.0.0.1]: 200 OK <- C:\Users\Radzivill\Desktop\Homework\Course\ProjectCurs (2)\ProjectCurs\assets/img/icon/cart_white.svg
+29.04.2023 21:10:09 [127.0.0.1]: 200 OK <- C:\Users\Radzivill\Desktop\Homework\Course\ProjectCurs (2)\ProjectCurs\assets/img/dynamically_img.png
+29.04.2023 21:10:09 [127.0.0.1]: 200 OK <- C:\Users\Radzivill\Desktop\Homework\Course\ProjectCurs (2)\ProjectCurs\assets/img/reliably_img.png
+29.04.2023 21:10:09 [127.0.0.1]: 200 OK <- C:\Users\Radzivill\Desktop\Homework\Course\ProjectCurs (2)\ProjectCurs\assets/img/available_img.png
+29.04.2023 21:10:09 [127.0.0.1]: 200 OK <- C:\Users\Radzivill\Desktop\Homework\Course\ProjectCurs (2)\ProjectCurs\assets/img/icon/arrow_to_down.svg
+29.04.2023 21:10:09 [127.0.0.1]: 200 OK <- C:\Users\Radzivill\Desktop\Homework\Course\ProjectCurs (2)\ProjectCurs\assets/img/icon/slider_arrow.svg
+29.04.2023 21:10:09 [127.0.0.1]: 200 OK <- C:\Users\Radzivill\Desktop\Homework\Course\ProjectCurs (2)\ProjectCurs\assets/img/Banner.png
+29.04.2023 21:10:09 [127.0.0.1]: 200 OK <- C:\Users\Radzivill\Desktop\Homework\Course\ProjectCurs (2)\ProjectCurs\assets/img/Freight_card_img.png
+29.04.2023 21:10:09 [127.0.0.1]: 200 OK <- C:\Users\Radzivill\Desktop\Homework\Course\ProjectCurs (2)\ProjectCurs\assets/img/Tractor_card_img.png
+29.04.2023 21:10:09 [127.0.0.1]: 200 OK <- C:\Users\Radzivill\Desktop\Homework\Course\ProjectCurs (2)\ProjectCurs\assets/img/Cars_card_img.png
+29.04.2023 21:10:10 [127.0.0.1]: 200 OK <- C:\Users\Radzivill\Desktop\Homework\Course\ProjectCurs (2)\ProjectCurs\assets/img/Agricultural_machinery_card_img.png
+29.04.2023 21:10:10 [127.0.0.1]: 200 OK <- C:\Users\Radzivill\Desktop\Homework\Course\ProjectCurs (2)\ProjectCurs\assets/img/Buses_card_img.png
+29.04.2023 21:10:10 [127.0.0.1]: 200 OK <- C:\Users\Radzivill\Desktop\Homework\Course\ProjectCurs (2)\ProjectCurs\assets/img/Special_equipment_card_img.png
+29.04.2023 21:10:10 [127.0.0.1]: 200 OK <- C:\Users\Radzivill\Desktop\Homework\Course\ProjectCurs (2)\ProjectCurs\assets/img/Other_card_img.png
+29.04.2023 21:25:50 [127.0.0.1]: 200 OK <- ./index.html
+29.04.2023 21:33:45 [127.0.0.1]: 200 OK <- ./index.html
+29.04.2023 21:34:02 [127.0.0.1]: 200 OK <- ./index.html
+29.04.2023 21:55:18 [127.0.0.1]: 501 Not Implemented <- 
+29.04.2023 21:55:46 [127.0.0.1]: 404 Not Found <- ./27.0.0.1
+29.04.2023 22:15:35 [127.0.0.1]: 404 Not Found <- ./27.0.0.1
+29.04.2023 22:16:48 [127.0.0.1]: 200 OK <- ./index.html
+29.04.2023 22:18:38 [127.0.0.1]: 200 OK <- ./index.html
+29.04.2023 22:21:11 [127.0.0.1]: 200 OK <- .\ProjectCurs\index.html
+29.04.2023 22:25:04 [127.0.0.1]: 200 OK <- .\ProjectCurs\index.html
+29.04.2023 22:56:14 [127.0.0.1]: 200 OK <- .\ProjectCurs\index.html
+29.04.2023 23:00:24 [127.0.0.1]: 200 OK <- .\ProjectCurs\index.html
+29.04.2023 23:08:47 [127.0.0.1]: 200 OK <- .\ProjectCurs\index.html
+29.04.2023 23:09:42 [127.0.0.1]: 200 OK <- .\ProjectCurs\index.html
+30.04.2023 12:57:51 [127.0.0.1]: 200 OK <- .\index.html
+30.04.2023 14:31:13 [INFO] Server is started. Listening on 808. Timeout on 70 seconds.
+30.04.2023 14:31:30 [INFO] Server is started. Listening on 8080. Timeout on 70 seconds.
+30.04.2023 14:42:22 [INFO] Server is started. Listening on 8080. Timeout on 70 seconds.
+30.04.2023 14:42:29 [INFO] 127.0.0.1 connected to server
+30.04.2023 14:45:10 [INFO] Server is started. Listening on 8080. Timeout on 70 seconds.
+30.04.2023 14:45:12 [INFO] 127.0.0.1 connected to server
+30.04.2023 14:46:21 [INFO] Server is started. Listening on 8080. Timeout on 70 seconds.
+30.04.2023 14:46:23 [INFO] 127.0.0.1 connected to server
+30.04.2023 14:48:01 [INFO] Server is started. Listening on 8080. Timeout on 70 seconds.
+30.04.2023 14:48:04 [INFO] 127.0.0.1 connected to server
+30.04.2023 14:48:04 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 14:48:26 [INFO] Server is started. Listening on 8080. Timeout on 70 seconds.
+30.04.2023 14:48:28 [INFO] 127.0.0.1 connected to server
+30.04.2023 14:48:28 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 14:48:28 [127.0.0.1]: 200 OK <- ./index.html
+30.04.2023 14:48:28 [INFO] 127.0.0.1 connected to server
+30.04.2023 14:48:28 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 14:48:28 [127.0.0.1]: 404 Not Found <- ./favicon.ico
+30.04.2023 14:48:28 [INFO] 127.0.0.1 connected to server
+30.04.2023 14:49:25 [INFO] Server is started. Listening on 8080. Timeout on 70 seconds.
+30.04.2023 14:49:27 [INFO] 127.0.0.1 connected to server
+30.04.2023 14:49:27 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 14:49:27 [127.0.0.1]: 200 OK <- ./index.html
+30.04.2023 14:49:27 [INFO] 127.0.0.1 connected to server
+30.04.2023 14:49:53 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 14:49:53 [127.0.0.1]: 200 OK <- ./index.html
+30.04.2023 14:49:54 [INFO] 127.0.0.1 connected to server
+30.04.2023 14:50:00 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 14:50:00 [127.0.0.1]: 200 OK <- ./index.html
+30.04.2023 14:50:01 [INFO] 127.0.0.1 connected to server
+30.04.2023 14:50:01 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 14:50:01 [127.0.0.1]: 200 OK <- ./index.html
+30.04.2023 14:50:02 [INFO] 127.0.0.1 connected to server
+30.04.2023 14:50:02 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 14:50:02 [127.0.0.1]: 200 OK <- ./index.html
+30.04.2023 14:50:02 [INFO] 127.0.0.1 connected to server
+30.04.2023 14:50:06 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 14:50:06 [127.0.0.1]: 200 OK <- ./index.html
+30.04.2023 14:50:06 [INFO] 127.0.0.1 connected to server
+30.04.2023 14:50:07 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 14:50:07 [127.0.0.1]: 200 OK <- ./index.html
+30.04.2023 14:50:07 [INFO] 127.0.0.1 connected to server
+30.04.2023 14:50:07 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 14:50:07 [127.0.0.1]: 200 OK <- ./index.html
+30.04.2023 14:50:08 [INFO] 127.0.0.1 connected to server
+30.04.2023 16:27:19 [INFO] Server is started. Listening on 8080. Timeout on 70 seconds.
+30.04.2023 16:27:23 [INFO] 127.0.0.1 connected to server
+30.04.2023 16:27:23 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 16:27:23 [127.0.0.1]: 200 OK <- ./index.html
+30.04.2023 16:27:23 [INFO] 127.0.0.1 connected to server
+30.04.2023 16:27:29 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 16:27:29 [127.0.0.1]: 200 OK <- ./index.html
+30.04.2023 16:27:29 [INFO] 127.0.0.1 connected to server
+30.04.2023 16:27:48 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 16:27:48 [127.0.0.1]: 200 OK <- ./index.html
+30.04.2023 16:27:51 [INFO] 127.0.0.1 connected to server
+30.04.2023 16:27:51 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 16:27:51 [127.0.0.1]: 200 OK <- ./index.html
+30.04.2023 16:27:51 [INFO] 127.0.0.1 connected to server
+30.04.2023 16:27:55 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 16:27:55 [127.0.0.1]: 200 OK <- ./index.html
+30.04.2023 16:27:55 [INFO] 127.0.0.1 connected to server
+30.04.2023 16:28:06 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 16:28:06 [127.0.0.1]: 200 OK <- ./index.html
+30.04.2023 16:28:06 [INFO] 127.0.0.1 connected to server
+30.04.2023 16:28:44 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 16:28:44 [127.0.0.1]: 200 OK <- ./index.html
+30.04.2023 16:28:44 [INFO] 127.0.0.1 connected to server
+30.04.2023 16:28:45 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 16:28:45 [127.0.0.1]: 200 OK <- ./index.html
+30.04.2023 16:28:46 [INFO] 127.0.0.1 connected to server
+30.04.2023 16:28:47 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 16:28:47 [127.0.0.1]: 200 OK <- ./index.html
+30.04.2023 16:28:48 [INFO] 127.0.0.1 connected to server
+30.04.2023 16:28:51 [INFO] Server is started. Listening on 8080. Timeout on 70 seconds.
+30.04.2023 16:28:51 [INFO] 127.0.0.1 connected to server
+30.04.2023 16:28:51 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 16:28:51 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 16:28:51 [127.0.0.1]: 200 OK <- ./index.html
+30.04.2023 16:28:53 [INFO] 127.0.0.1 connected to server
+30.04.2023 16:28:53 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 16:28:53 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 16:28:53 [127.0.0.1]: 200 OK <- ./index.html
+30.04.2023 16:28:53 [INFO] 127.0.0.1 connected to server
+30.04.2023 16:28:53 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 16:29:26 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 16:29:26 [127.0.0.1]: 200 OK <- ./index.html
+30.04.2023 16:29:26 [INFO] 127.0.0.1 connected to server
+30.04.2023 16:29:26 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 16:31:23 [INFO] Server is started. Listening on 8080. Timeout on 70 seconds.
+30.04.2023 16:31:24 [INFO] 127.0.0.1 connected to server
+30.04.2023 16:31:24 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 16:31:24 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 16:31:24 [127.0.0.1]: 200 OK <- ./index.html
+30.04.2023 16:31:24 [INFO] 127.0.0.1 connected to server
+30.04.2023 16:31:24 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 16:32:16 [INFO] Server is started. Listening on 8080. Timeout on 70 seconds.
+30.04.2023 16:32:51 [INFO] Server is started. Listening on 8080. Timeout on 70 seconds.
+30.04.2023 16:32:53 [INFO] 127.0.0.1 connected to server
+30.04.2023 16:32:53 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 16:41:24 [INFO] Server is started. Listening on 8080. Timeout on 70 seconds.
+30.04.2023 16:41:54 [INFO] 127.0.0.1 connected to server
+30.04.2023 16:41:54 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 16:41:54 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 16:41:54 [127.0.0.1]: 501 Not Implemented <- 
+30.04.2023 16:42:38 [INFO] 127.0.0.1 connected to server
+30.04.2023 16:42:38 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 16:42:38 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 16:42:38 [127.0.0.1]: 501 Not Implemented <- 
+30.04.2023 16:43:33 [INFO] Server is started. Listening on 8080. Timeout on 70 seconds.
+30.04.2023 16:43:36 [INFO] 127.0.0.1 connected to server
+30.04.2023 16:43:36 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 16:43:36 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 16:43:36 [127.0.0.1]: 501 Not Implemented <- 
+30.04.2023 16:44:42 [INFO] Server is started. Listening on 8080. Timeout on 70 seconds.
+30.04.2023 16:44:44 [INFO] 127.0.0.1 connected to server
+30.04.2023 16:44:44 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 16:44:44 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 16:44:44 [127.0.0.1]: 501 Not Implemented <- 
+30.04.2023 16:45:14 [INFO] Server is started. Listening on 8080. Timeout on 70 seconds.
+30.04.2023 16:45:17 [INFO] 127.0.0.1 connected to server
+30.04.2023 16:45:17 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 16:45:17 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 16:45:17 [127.0.0.1]: 501 Not Implemented <- 
+30.04.2023 16:46:42 [INFO] Server is started. Listening on 8080. Timeout on 70 seconds.
+30.04.2023 16:46:45 [INFO] 127.0.0.1 connected to server
+30.04.2023 16:46:45 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 16:46:45 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 16:46:45 [127.0.0.1]: 501 Not Implemented <- 
+30.04.2023 16:47:43 [INFO] 127.0.0.1 connected to server
+30.04.2023 16:47:43 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 16:47:43 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 16:47:43 [127.0.0.1]: 501 Not Implemented <- 
+30.04.2023 16:48:02 [INFO] 127.0.0.1 connected to server
+30.04.2023 16:48:02 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 16:48:02 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 16:48:02 [127.0.0.1]: 501 Not Implemented <- 
+30.04.2023 16:48:43 [INFO] 127.0.0.1 connected to server
+30.04.2023 16:48:43 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 16:48:43 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 16:48:43 [127.0.0.1]: 501 Not Implemented <- 
+30.04.2023 16:49:18 [INFO] 127.0.0.1 connected to server
+30.04.2023 16:49:18 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 16:54:04 [INFO] Server is started. Listening on 8080. Timeout on 70 seconds.
+30.04.2023 16:54:21 [INFO] 127.0.0.1 connected to server
+30.04.2023 16:54:21 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 16:57:43 [INFO] Server is started. Listening on 8080. Timeout on 70 seconds.
+30.04.2023 16:57:46 [INFO] 127.0.0.1 connected to server
+30.04.2023 16:57:46 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 16:57:46 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 16:57:46 [127.0.0.1]: 200 OK <- ./index.html
+30.04.2023 17:00:24 [INFO] Server is started. Listening on 8080. Timeout on 70 seconds.
+30.04.2023 17:00:27 [INFO] 127.0.0.1 connected to server
+30.04.2023 17:00:27 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 17:00:27 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 17:00:27 [127.0.0.1]: 200 OK <- 
+30.04.2023 17:01:55 [INFO] Server is started. Listening on 8080. Timeout on 70 seconds.
+30.04.2023 17:40:53 [INFO] Server is started. Listening on 8080. Timeout on 70 seconds.
+30.04.2023 17:41:37 [INFO] 127.0.0.1 connected to server
+30.04.2023 17:41:37 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 17:43:58 [INFO] Server is started. Listening on 8080. Timeout on 70 seconds.
+30.04.2023 17:44:43 [INFO] 127.0.0.1 connected to server
+30.04.2023 17:44:43 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 17:45:35 [INFO] Server is started. Listening on 8080. Timeout on 70 seconds.
+30.04.2023 17:46:13 [INFO] 127.0.0.1 connected to server
+30.04.2023 17:46:13 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 17:46:46 [INFO] Server is started. Listening on 8080. Timeout on 70 seconds.
+30.04.2023 17:46:49 [INFO] 127.0.0.1 connected to server
+30.04.2023 17:46:49 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 17:47:02 [INFO] Server is started. Listening on 8080. Timeout on 70 seconds.
+30.04.2023 17:47:05 [INFO] 127.0.0.1 connected to server
+30.04.2023 17:47:05 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 17:47:40 [INFO] Server is started. Listening on 8080. Timeout on 70 seconds.
+30.04.2023 17:47:42 [INFO] 127.0.0.1 connected to server
+30.04.2023 17:47:42 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 17:47:42 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 17:47:42 [127.0.0.1]: 200 OK <- ./index.html
+30.04.2023 17:48:44 [INFO] Server is started. Listening on 8080. Timeout on 70 seconds.
+30.04.2023 17:48:46 [INFO] 127.0.0.1 connected to server
+30.04.2023 17:48:46 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 17:48:46 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 17:48:46 [127.0.0.1]: 200 OK <- ./index.html
+30.04.2023 17:49:19 [INFO] 127.0.0.1 connected to server
+30.04.2023 17:49:19 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 17:49:19 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 17:49:19 [127.0.0.1]: 200 OK <- ./index.html
+30.04.2023 17:49:51 [INFO] 127.0.0.1 connected to server
+30.04.2023 17:49:51 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 17:49:51 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 17:49:51 [127.0.0.1]: 200 OK <- ./index.html
+30.04.2023 17:53:40 [INFO] Server is started. Listening on 8080. Timeout on 70 seconds.
+30.04.2023 17:53:59 [INFO] 127.0.0.1 connected to server
+30.04.2023 17:53:59 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 17:53:59 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 17:53:59 [127.0.0.1]: 200 OK <- ./index.html
+30.04.2023 17:55:03 [INFO] Server is started. Listening on 8080. Timeout on 70 seconds.
+30.04.2023 17:55:06 [INFO] 127.0.0.1 connected to server
+30.04.2023 17:55:06 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 17:55:06 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 17:55:06 [127.0.0.1]: 200 OK <- ./index.html
+30.04.2023 17:57:15 [INFO] Server is started. Listening on 8080. Timeout on 70 seconds.
+30.04.2023 17:57:17 [INFO] 127.0.0.1 connected to server
+30.04.2023 17:57:17 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 17:57:17 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 17:57:17 [127.0.0.1]: 200 OK <- ./index.html
+30.04.2023 17:57:55 [INFO] Server is started. Listening on 8080. Timeout on 70 seconds.
+30.04.2023 17:57:58 [INFO] 127.0.0.1 connected to server
+30.04.2023 17:57:58 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 17:57:58 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 17:57:58 [127.0.0.1]: 200 OK <- ./index.html
+30.04.2023 17:58:23 [INFO] Server is started. Listening on 8080. Timeout on 70 seconds.
+30.04.2023 17:58:27 [INFO] 127.0.0.1 connected to server
+30.04.2023 17:58:27 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 17:58:27 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 17:58:27 [127.0.0.1]: 200 OK <- ./index.html
+30.04.2023 17:58:44 [INFO] Server is started. Listening on 8080. Timeout on 70 seconds.
+30.04.2023 17:58:47 [INFO] 127.0.0.1 connected to server
+30.04.2023 17:58:47 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 17:58:47 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 17:58:47 [127.0.0.1]: 200 OK <- ./index.html
+30.04.2023 18:00:58 [INFO] Server is started. Listening on 8080. Timeout on 70 seconds.
+30.04.2023 18:01:00 [INFO] 127.0.0.1 connected to server
+30.04.2023 18:01:00 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 18:01:00 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 18:01:00 [127.0.0.1]: 200 OK <- ./index.html
+30.04.2023 18:07:15 [INFO] Server is started. Listening on 8080. Timeout on 70 seconds.
+30.04.2023 18:07:35 [INFO] 127.0.0.1 connected to server
+30.04.2023 18:07:35 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 18:07:35 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 18:07:35 [127.0.0.1]: 200 OK <- ./index.html
+30.04.2023 18:08:34 [INFO] Server is started. Listening on 8080. Timeout on 70 seconds.
+30.04.2023 18:08:37 [INFO] 127.0.0.1 connected to server
+30.04.2023 18:08:37 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 18:08:37 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 18:08:37 [127.0.0.1]: 200 OK <- ./index.html
+30.04.2023 18:09:14 [INFO] Server is started. Listening on 8080. Timeout on 70 seconds.
+30.04.2023 18:09:16 [INFO] 127.0.0.1 connected to server
+30.04.2023 18:09:16 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 18:09:16 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 18:09:16 [127.0.0.1]: 200 OK <- ./index.html
+30.04.2023 18:09:54 [INFO] 127.0.0.1 connected to server
+30.04.2023 18:09:54 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 18:09:54 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 18:09:54 [127.0.0.1]: 200 OK <- ./index.html
+30.04.2023 18:09:59 [INFO] Server is started. Listening on 8080. Timeout on 70 seconds.
+30.04.2023 18:10:05 [INFO] 127.0.0.1 connected to server
+30.04.2023 18:10:05 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 18:10:05 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 18:10:05 [127.0.0.1]: 200 OK <- ./index.html
+30.04.2023 18:10:37 [INFO] Server is started. Listening on 8080. Timeout on 70 seconds.
+30.04.2023 18:10:38 [INFO] 127.0.0.1 connected to server
+30.04.2023 18:10:38 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 18:10:38 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 18:10:38 [127.0.0.1]: 200 OK <- ./index.html
+30.04.2023 18:19:03 [INFO] Server is started. Listening on 8080. Timeout on 70 seconds.
+30.04.2023 18:19:04 [INFO] 127.0.0.1 connected to server
+30.04.2023 18:19:04 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 18:19:04 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 18:19:04 [127.0.0.1]: 200 OK <- ./index.html
+30.04.2023 18:21:26 [INFO] Server is started. Listening on 8080. Timeout on 70 seconds.
+30.04.2023 18:21:28 [INFO] 127.0.0.1 connected to server
+30.04.2023 18:21:28 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 18:21:28 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 18:21:28 [127.0.0.1]: 200 OK <- ./index.html
+30.04.2023 18:23:41 [INFO] Server is started. Listening on 8080. Timeout on 70 seconds.
+30.04.2023 18:23:43 [INFO] 127.0.0.1 connected to server
+30.04.2023 18:23:43 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 18:23:43 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 18:23:43 [127.0.0.1]: 200 OK <- ./index.html
+30.04.2023 18:23:57 [INFO] 127.0.0.1 connected to server
+30.04.2023 18:23:57 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 18:23:57 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 18:23:57 [127.0.0.1]: 200 OK <- ./index.html
+30.04.2023 18:25:47 [INFO] Server is started. Listening on 8080. Timeout on 70 seconds.
+30.04.2023 18:25:49 [INFO] 127.0.0.1 connected to server
+30.04.2023 18:25:49 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 18:25:49 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 18:25:49 [127.0.0.1]: 200 OK <- ./index.html
+30.04.2023 18:26:22 [INFO] Server is started. Listening on 8080. Timeout on 70 seconds.
+30.04.2023 18:26:24 [INFO] 127.0.0.1 connected to server
+30.04.2023 18:26:24 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 18:26:24 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 18:26:24 [127.0.0.1]: 200 OK <- ./index.html
+30.04.2023 18:27:42 [INFO] Server is started. Listening on 8080. Timeout on 70 seconds.
+30.04.2023 18:28:46 [INFO] 127.0.0.1 connected to server
+30.04.2023 18:28:46 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 18:28:46 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 18:28:46 [127.0.0.1]: 200 OK <- ./index.html
+30.04.2023 18:30:55 [INFO] Server is started. Listening on 8080. Timeout on 70 seconds.
+30.04.2023 18:30:58 [INFO] 127.0.0.1 connected to server
+30.04.2023 18:30:58 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 18:30:58 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 18:30:58 [127.0.0.1]: 200 OK <- ./index.html
+30.04.2023 18:33:20 [INFO] Server is started. Listening on 8080. Timeout on 70 seconds.
+30.04.2023 18:33:23 [INFO] 127.0.0.1 connected to server
+30.04.2023 18:33:23 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 18:33:23 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 18:33:23 [127.0.0.1]: 200 OK <- ./index.html
+30.04.2023 18:38:44 [INFO] Server is started. Listening on 8080. Timeout on 70 seconds.
+30.04.2023 18:38:46 [INFO] 127.0.0.1 connected to server
+30.04.2023 18:38:46 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 18:38:46 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 18:38:46 [127.0.0.1]: 200 OK <- ./index.html
+30.04.2023 18:41:38 [INFO] Server is started. Listening on 8080. Timeout on 70 seconds.
+30.04.2023 18:41:41 [INFO] 127.0.0.1 connected to server
+30.04.2023 18:41:41 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 18:41:41 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 18:41:41 [127.0.0.1]: 200 OK <- ./index.html
+30.04.2023 18:42:08 [INFO] 127.0.0.1 connected to server
+30.04.2023 18:42:08 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 18:42:08 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 18:42:08 [127.0.0.1]: 200 OK <- ./index.html
+30.04.2023 18:42:24 [INFO] Server is started. Listening on 8080. Timeout on 70 seconds.
+30.04.2023 18:42:28 [INFO] 127.0.0.1 connected to server
+30.04.2023 18:42:28 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 18:42:28 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 18:42:28 [127.0.0.1]: 200 OK <- ./index.html
+30.04.2023 18:42:51 [INFO] 127.0.0.1 connected to server
+30.04.2023 18:42:51 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 18:42:51 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 18:42:51 [127.0.0.1]: 200 OK <- ./index.html
+30.04.2023 18:44:03 [INFO] Server is started. Listening on 8080. Timeout on 70 seconds.
+30.04.2023 18:44:06 [INFO] 127.0.0.1 connected to server
+30.04.2023 18:44:06 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 18:44:06 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 18:44:06 [127.0.0.1]: 200 OK <- ./index.html
+30.04.2023 18:47:22 [INFO] Server is started. Listening on 8080. Timeout on 70 seconds.
+30.04.2023 18:47:26 [INFO] 127.0.0.1 connected to server
+30.04.2023 18:47:26 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 18:47:26 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 18:47:26 [127.0.0.1]: 200 OK <- ./index.html
+30.04.2023 18:48:50 [INFO] Server is started. Listening on 8080. Timeout on 70 seconds.
+30.04.2023 18:48:53 [INFO] 127.0.0.1 connected to server
+30.04.2023 18:48:53 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 18:48:53 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 18:48:53 [127.0.0.1]: 200 OK <- ./index.html
+30.04.2023 18:55:07 [INFO] Server is started. Listening on 8080. Timeout on 70 seconds.
+30.04.2023 18:55:10 [INFO] 127.0.0.1 connected to server
+30.04.2023 18:55:10 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 18:55:10 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 18:55:10 [127.0.0.1]: 200 OK <- ./index.html
+30.04.2023 18:58:49 [INFO] Server is started. Listening on 8080. Timeout on 70 seconds.
+30.04.2023 18:58:52 [INFO] 127.0.0.1 connected to server
+30.04.2023 18:58:52 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 18:58:52 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 18:58:52 [127.0.0.1]: 200 OK <- ./index.html
+30.04.2023 19:00:43 [INFO] Server is started. Listening on 8080. Timeout on 70 seconds.
+30.04.2023 19:00:46 [INFO] 127.0.0.1 connected to server
+30.04.2023 19:00:46 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 19:00:46 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 19:00:46 [127.0.0.1]: 200 OK <- ./index.html
+30.04.2023 19:01:54 [INFO] 127.0.0.1 connected to server
+30.04.2023 19:01:54 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 19:01:54 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 19:01:54 [127.0.0.1]: 200 OK <- ./index.html
+30.04.2023 19:02:26 [INFO] 127.0.0.1 connected to server
+30.04.2023 19:02:26 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 19:02:26 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 19:02:26 [127.0.0.1]: 200 OK <- ./index.html
+30.04.2023 19:17:21 [INFO] Server is started. Listening on 8080. Timeout on 70 seconds.
+30.04.2023 19:17:31 [INFO] 127.0.0.1 connected to server
+30.04.2023 19:17:31 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 19:17:31 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 19:17:31 [127.0.0.1]: 200 OK <- ./index.html
+30.04.2023 19:18:22 [INFO] 127.0.0.1 connected to server
+30.04.2023 19:18:22 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 19:18:22 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 19:18:22 [127.0.0.1]: 200 OK <- ./index.html
+30.04.2023 19:18:36 [INFO] 127.0.0.1 connected to server
+30.04.2023 19:18:36 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 19:18:36 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 19:18:36 [127.0.0.1]: 200 OK <- ./index.html
+30.04.2023 19:19:16 [INFO] 127.0.0.1 connected to server
+30.04.2023 19:19:16 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 19:19:16 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 19:19:16 [127.0.0.1]: 200 OK <- 
+30.04.2023 19:22:27 [INFO] Server is started. Listening on 8080. Timeout on 70 seconds.
+30.04.2023 19:22:30 [INFO] 127.0.0.1 connected to server
+30.04.2023 19:22:30 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 19:22:30 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 19:22:30 [127.0.0.1]: 200 OK <- 
+30.04.2023 19:43:04 [INFO] Server is started. Listening on 8080. Timeout on 70 seconds.
+30.04.2023 20:00:43 [INFO] Server is started. Listening on 8080. Timeout on 70 seconds.
+30.04.2023 20:00:47 [INFO] 127.0.0.1 connected to server
+30.04.2023 20:00:47 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 20:00:47 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 20:00:47 [127.0.0.1]: 200 OK <- 
+30.04.2023 20:00:56 [INFO] 127.0.0.1 connected to server
+30.04.2023 20:00:56 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 20:00:56 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 20:00:56 [127.0.0.1]: 200 OK <- ./index.html
+30.04.2023 20:01:11 [INFO] 127.0.0.1 connected to server
+30.04.2023 20:01:11 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 20:01:11 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 20:01:11 [127.0.0.1]: 200 OK <- ././ProjectCurs/index.html
+30.04.2023 20:02:27 [INFO] Server is started. Listening on 8080. Timeout on 70 seconds.
+30.04.2023 20:03:53 [INFO] Server is started. Listening on 8080. Timeout on 70 seconds.
+30.04.2023 20:03:57 [INFO] 127.0.0.1 connected to server
+30.04.2023 20:03:57 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 20:03:57 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 20:03:57 [127.0.0.1]: 200 OK <- ././ProjectCurs/index.html
+30.04.2023 20:05:53 [INFO] Server is started. Listening on 8080. Timeout on 70 seconds.
+30.04.2023 20:06:04 [INFO] 127.0.0.1 connected to server
+30.04.2023 20:06:04 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 20:06:04 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 20:06:04 [127.0.0.1]: 200 OK <- ./index.html
+30.04.2023 20:06:16 [INFO] 127.0.0.1 connected to server
+30.04.2023 20:06:16 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 20:06:16 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 20:06:16 [127.0.0.1]: 200 OK <- ./index.html
+30.04.2023 20:07:25 [INFO] 127.0.0.1 connected to server
+30.04.2023 20:07:25 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 20:07:25 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 20:07:25 [127.0.0.1]: 200 OK <- ./index.html
+30.04.2023 20:07:25 [INFO] 127.0.0.1 connected to server
+30.04.2023 20:07:25 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 20:07:31 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 20:07:31 [127.0.0.1]: 200 OK <- ./projectCurs/index.html
+30.04.2023 20:07:31 [INFO] 127.0.0.1 connected to server
+30.04.2023 20:07:31 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 20:07:31 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 20:07:31 [127.0.0.1]: 200 OK <- ./projectCurs/assets/css/zeroing.css
+30.04.2023 20:07:31 [INFO] 127.0.0.1 connected to server
+30.04.2023 20:07:31 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 20:07:31 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 20:07:31 [127.0.0.1]: 200 OK <- ./projectCurs/assets/css/style.css
+30.04.2023 20:07:31 [INFO] 127.0.0.1 connected to server
+30.04.2023 20:07:31 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 20:07:31 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 20:07:31 [127.0.0.1]: 200 OK <- ./projectCurs/assets/js/camvas.js
+30.04.2023 20:07:32 [INFO] 127.0.0.1 connected to server
+30.04.2023 20:07:32 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 20:07:32 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 20:07:32 [127.0.0.1]: 200 OK <- ./projectCurs/assets/js/pico.js
+30.04.2023 20:07:32 [INFO] 127.0.0.1 connected to server
+30.04.2023 20:07:32 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 20:07:32 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 20:07:32 [127.0.0.1]: 200 OK <- ./projectCurs/assets/js/lploc.js
+30.04.2023 20:07:32 [INFO] 127.0.0.1 connected to server
+30.04.2023 20:07:32 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 20:07:32 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 20:07:32 [127.0.0.1]: 200 OK <- ./projectCurs/assets/img/slider_right.svg
+30.04.2023 20:07:32 [INFO] 127.0.0.1 connected to server
+30.04.2023 20:07:32 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 20:07:32 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 20:07:32 [127.0.0.1]: 200 OK <- ./projectCurs/assets/img/slider_left.svg
+30.04.2023 20:07:32 [INFO] 127.0.0.1 connected to server
+30.04.2023 20:07:32 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 20:07:32 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 20:07:32 [127.0.0.1]: 200 OK <- ./projectCurs/assets/img/icon/cart.svg
+30.04.2023 20:07:32 [INFO] 127.0.0.1 connected to server
+30.04.2023 20:07:32 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 20:07:32 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 20:07:32 [127.0.0.1]: 200 OK <- ./projectCurs/assets/img/icon/fav.svg
+30.04.2023 20:07:32 [INFO] 127.0.0.1 connected to server
+30.04.2023 20:07:32 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 20:07:32 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 20:07:32 [127.0.0.1]: 200 OK <- ./projectCurs/assets/img/icon/Property 1=boileres.svg
+30.04.2023 20:07:33 [INFO] 127.0.0.1 connected to server
+30.04.2023 20:07:33 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 20:07:33 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 20:07:33 [127.0.0.1]: 200 OK <- ./projectCurs/assets/img/icon/Property 1=generators.svg
+30.04.2023 20:07:33 [INFO] 127.0.0.1 connected to server
+30.04.2023 20:07:33 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 20:07:33 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 20:07:33 [127.0.0.1]: 200 OK <- ./projectCurs/assets/img/icon/Property 1=termostats.svg
+30.04.2023 20:07:33 [INFO] 127.0.0.1 connected to server
+30.04.2023 20:07:33 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 20:07:33 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 20:07:33 [127.0.0.1]: 200 OK <- ./projectCurs/assets/img/icon/Property 1=sensors.svg
+30.04.2023 20:07:33 [INFO] 127.0.0.1 connected to server
+30.04.2023 20:07:33 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 20:07:33 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 20:07:33 [127.0.0.1]: 200 OK <- ./projectCurs/assets/img/icon/Property 1=Phone.svg
+30.04.2023 20:07:33 [INFO] 127.0.0.1 connected to server
+30.04.2023 20:07:33 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 20:07:33 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 20:07:33 [127.0.0.1]: 200 OK <- ./projectCurs/assets/img/icon/user.svg
+30.04.2023 20:07:33 [INFO] 127.0.0.1 connected to server
+30.04.2023 20:07:33 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 20:07:33 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 20:07:33 [127.0.0.1]: 200 OK <- ./projectCurs/assets/img/icon/Property 1=starters.svg
+30.04.2023 20:07:33 [INFO] 127.0.0.1 connected to server
+30.04.2023 20:07:33 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 20:07:33 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 20:07:33 [127.0.0.1]: 200 OK <- ./projectCurs/assets/img/Rectangle 312.png
+30.04.2023 20:07:33 [INFO] 127.0.0.1 connected to server
+30.04.2023 20:07:33 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 20:07:33 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 20:07:33 [127.0.0.1]: 200 OK <- ./projectCurs/assets/img/icon/Property 1=lamps.svg
+30.04.2023 20:07:33 [INFO] 127.0.0.1 connected to server
+30.04.2023 20:07:33 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 20:07:33 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 20:07:33 [127.0.0.1]: 200 OK <- ./projectCurs/assets/js/main.js
+30.04.2023 20:07:33 [INFO] 127.0.0.1 connected to server
+30.04.2023 20:07:33 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 20:07:33 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 20:07:33 [127.0.0.1]: 200 OK <- ./projectCurs/assets/img/logo.svg
+30.04.2023 20:07:33 [INFO] 127.0.0.1 connected to server
+30.04.2023 20:07:33 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 20:07:33 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 20:07:33 [127.0.0.1]: 200 OK <- ./projectCurs/assets/img/icon/menu_white.svg
+30.04.2023 20:07:33 [INFO] 127.0.0.1 connected to server
+30.04.2023 20:07:33 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 20:07:33 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 20:07:33 [127.0.0.1]: 200 OK <- ./projectCurs/assets/img/icon/search.svg
+30.04.2023 20:07:33 [INFO] 127.0.0.1 connected to server
+30.04.2023 20:07:33 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 20:07:33 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 20:07:33 [127.0.0.1]: 200 OK <- ./projectCurs/assets/img/icon/Property 1=vk.svg
+30.04.2023 20:07:33 [INFO] 127.0.0.1 connected to server
+30.04.2023 20:07:33 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 20:07:33 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 20:07:33 [127.0.0.1]: 200 OK <- ./projectCurs/assets/img/icon/Property 1=tgm.svg
+30.04.2023 20:07:33 [INFO] 127.0.0.1 connected to server
+30.04.2023 20:07:33 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 20:07:33 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 20:07:33 [127.0.0.1]: 200 OK <- ./projectCurs/assets/img/news_picture.png
+30.04.2023 20:07:33 [INFO] 127.0.0.1 connected to server
+30.04.2023 20:07:33 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 20:07:33 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 20:07:33 [127.0.0.1]: 200 OK <- ./projectCurs/assets/img/icon/Property 1=histoty.svg
+30.04.2023 20:07:34 [INFO] 127.0.0.1 connected to server
+30.04.2023 20:07:34 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 20:07:34 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 20:07:34 [127.0.0.1]: 200 OK <- ./projectCurs/assets/img/Bestsellers_card_img.png
+30.04.2023 20:07:34 [INFO] 127.0.0.1 connected to server
+30.04.2023 20:07:34 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 20:07:34 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 20:07:34 [127.0.0.1]: 200 OK <- ./projectCurs/assets/img/icon/cart_white.svg
+30.04.2023 20:07:34 [INFO] 127.0.0.1 connected to server
+30.04.2023 20:07:34 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 20:07:34 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 20:07:34 [127.0.0.1]: 200 OK <- ./projectCurs/assets/img/dynamically_img.png
+30.04.2023 20:07:34 [INFO] 127.0.0.1 connected to server
+30.04.2023 20:07:34 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 20:07:34 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 20:07:34 [127.0.0.1]: 200 OK <- ./projectCurs/assets/img/reliably_img.png
+30.04.2023 20:07:34 [INFO] 127.0.0.1 connected to server
+30.04.2023 20:07:34 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 20:07:34 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 20:07:34 [127.0.0.1]: 200 OK <- ./projectCurs/assets/img/available_img.png
+30.04.2023 20:07:34 [INFO] 127.0.0.1 connected to server
+30.04.2023 20:07:34 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 20:07:34 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 20:07:34 [127.0.0.1]: 200 OK <- ./projectCurs/assets/img/icon/arrow_to_down.svg
+30.04.2023 20:07:34 [INFO] 127.0.0.1 connected to server
+30.04.2023 20:07:34 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 20:07:34 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 20:07:34 [127.0.0.1]: 200 OK <- ./projectCurs/assets/img/icon/slider_arrow.svg
+30.04.2023 20:07:34 [INFO] 127.0.0.1 connected to server
+30.04.2023 20:07:34 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 20:07:34 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 20:07:34 [127.0.0.1]: 200 OK <- ./projectCurs/assets/img/Banner.png
+30.04.2023 20:07:34 [INFO] 127.0.0.1 connected to server
+30.04.2023 20:07:34 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 20:07:34 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 20:07:34 [127.0.0.1]: 200 OK <- ./projectCurs/assets/img/Freight_card_img.png
+30.04.2023 20:07:34 [INFO] 127.0.0.1 connected to server
+30.04.2023 20:07:34 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 20:07:34 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 20:07:34 [127.0.0.1]: 200 OK <- ./projectCurs/assets/img/Tractor_card_img.png
+30.04.2023 20:07:34 [INFO] 127.0.0.1 connected to server
+30.04.2023 20:07:34 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 20:07:34 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 20:07:34 [127.0.0.1]: 200 OK <- ./projectCurs/assets/img/Cars_card_img.png
+30.04.2023 20:07:34 [INFO] 127.0.0.1 connected to server
+30.04.2023 20:07:34 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 20:07:34 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 20:07:34 [127.0.0.1]: 200 OK <- ./projectCurs/assets/img/Agricultural_machinery_card_img.png
+30.04.2023 20:07:34 [INFO] 127.0.0.1 connected to server
+30.04.2023 20:07:34 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 20:07:34 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 20:07:34 [127.0.0.1]: 200 OK <- ./projectCurs/assets/img/Buses_card_img.png
+30.04.2023 20:07:35 [INFO] 127.0.0.1 connected to server
+30.04.2023 20:07:35 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 20:07:35 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 20:07:35 [127.0.0.1]: 200 OK <- ./projectCurs/assets/img/Special_equipment_card_img.png
+30.04.2023 20:07:35 [INFO] 127.0.0.1 connected to server
+30.04.2023 20:07:35 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 20:07:35 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 20:07:35 [127.0.0.1]: 200 OK <- ./projectCurs/assets/img/Other_card_img.png
+30.04.2023 20:08:20 [INFO] 127.0.0.1 connected to server
+30.04.2023 20:08:20 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 20:08:20 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 20:08:20 [127.0.0.1]: 200 OK <- ././ProjectCurs/index.html
+30.04.2023 20:08:55 [INFO] 127.0.0.1 connected to server
+30.04.2023 20:08:55 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 20:08:55 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 20:08:55 [127.0.0.1]: 200 OK <- ././ProjectCurs/index.html
+30.04.2023 20:09:06 [INFO] 127.0.0.1 connected to server
+30.04.2023 20:09:06 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 20:09:06 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 20:09:06 [127.0.0.1]: 200 OK <- ././ProjectCurs/index.html
+30.04.2023 20:19:10 [INFO] Server is started. Listening on 8080. Timeout on 70 seconds.
+30.04.2023 20:19:13 [INFO] 127.0.0.1 connected to server
+30.04.2023 20:19:13 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 20:19:13 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 20:19:13 [127.0.0.1]: 200 OK <- ././ProjectCurs/index.html
+30.04.2023 20:19:49 [INFO] 127.0.0.1 connected to server
+30.04.2023 20:19:49 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 20:19:49 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 20:19:49 [127.0.0.1]: 200 OK <- ././ProjectCurs/index.html
+30.04.2023 20:20:41 [INFO] 127.0.0.1 connected to server
+30.04.2023 20:20:41 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 20:20:41 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 20:20:41 [127.0.0.1]: 200 OK <- ././ProjectCurs/index.html
+30.04.2023 20:21:03 [INFO] 127.0.0.1 connected to server
+30.04.2023 20:21:03 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 20:21:03 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 20:21:03 [127.0.0.1]: 200 OK <- ././ProjectCurs/index.html
+30.04.2023 20:22:27 [INFO] Server is started. Listening on 8080. Timeout on 70 seconds.
+30.04.2023 20:22:29 [INFO] 127.0.0.1 connected to server
+30.04.2023 20:22:29 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 20:22:29 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 20:22:29 [127.0.0.1]: 200 OK <- ././ProjectCurs/index.html
+30.04.2023 20:23:29 [INFO] 127.0.0.1 connected to server
+30.04.2023 20:23:29 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 20:23:29 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 20:23:29 [127.0.0.1]: 200 OK <- ././ProjectCurs/index.html
+30.04.2023 20:24:23 [INFO] 127.0.0.1 connected to server
+30.04.2023 20:24:23 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 20:24:23 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 20:24:23 [127.0.0.1]: 200 OK <- ././ProjectCurs/index.html
+30.04.2023 20:25:05 [INFO] 127.0.0.1 connected to server
+30.04.2023 20:25:05 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 20:25:05 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 20:25:05 [127.0.0.1]: 200 OK <- ././ProjectCurs/index.html
+30.04.2023 20:29:26 [INFO] Server is started. Listening on 8080. Timeout on 70 seconds.
+30.04.2023 20:29:28 [INFO] 127.0.0.1 connected to server
+30.04.2023 20:29:28 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 20:29:28 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 20:29:28 [127.0.0.1]: 200 OK <- ././ProjectCurs/index.html
+30.04.2023 20:30:17 [INFO] 127.0.0.1 connected to server
+30.04.2023 20:30:17 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 20:30:17 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 20:30:17 [127.0.0.1]: 200 OK <- ././ProjectCurs/index.html
+30.04.2023 20:34:57 [INFO] Server is started. Listening on 8080. Timeout on 70 seconds.
+30.04.2023 20:35:00 [INFO] 127.0.0.1 connected to server
+30.04.2023 20:35:00 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 20:35:00 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 20:35:00 [127.0.0.1]: 200 OK <- ././ProjectCurs/index.html
+30.04.2023 20:36:00 [INFO] Server is started. Listening on 8080. Timeout on 70 seconds.
+30.04.2023 20:36:02 [INFO] 127.0.0.1 connected to server
+30.04.2023 20:36:02 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 20:36:02 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 20:36:27 [INFO] Server is started. Listening on 8080. Timeout on 70 seconds.
+30.04.2023 20:36:29 [INFO] 127.0.0.1 connected to server
+30.04.2023 20:36:29 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 20:36:29 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 20:36:29 [127.0.0.1]: 200 OK <- ././ProjectCurs/index.html
+30.04.2023 20:37:12 [INFO] Server is started. Listening on 8080. Timeout on 70 seconds.
+30.04.2023 20:37:16 [INFO] 127.0.0.1 connected to server
+30.04.2023 20:37:16 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 20:37:16 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 20:37:16 [127.0.0.1]: 200 OK <- ././ProjectCurs/index.html
+30.04.2023 20:37:55 [INFO] 127.0.0.1 connected to server
+30.04.2023 20:37:55 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 20:37:55 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 20:37:55 [127.0.0.1]: 200 OK <- ././ProjectCurs/index.html
+30.04.2023 20:48:11 [INFO] Server is started. Listening on 8080. Timeout on 70 seconds.
+30.04.2023 20:48:24 [INFO] 127.0.0.1 connected to server
+30.04.2023 20:48:24 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 20:48:24 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 20:48:24 [127.0.0.1]: 200 OK <- ././ProjectCurs/index.html
+30.04.2023 20:49:31 [INFO] 127.0.0.1 connected to server
+30.04.2023 20:49:31 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 20:49:31 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 20:49:31 [127.0.0.1]: 200 OK <- ././ProjectCurs/index.html
+30.04.2023 20:52:23 [INFO] Server is started. Listening on 8080. Timeout on 70 seconds.
+30.04.2023 20:52:25 [INFO] 127.0.0.1 connected to server
+30.04.2023 20:52:25 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 20:52:25 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 20:52:25 [127.0.0.1]: 200 OK <- ././ProjectCurs/index.html
+30.04.2023 21:06:49 [INFO] Server is started. Listening on 8080. Timeout on 70 seconds.
+30.04.2023 21:06:51 [INFO] 127.0.0.1 connected to server
+30.04.2023 21:06:51 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 21:06:51 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 21:06:51 [127.0.0.1]: 200 OK <- ././ProjectCurs/index.html
+30.04.2023 21:22:20 [INFO] Server is started. Listening on 8080. Timeout on 70 seconds.
+30.04.2023 21:22:22 [INFO] 127.0.0.1 connected to server
+30.04.2023 21:22:22 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 21:22:22 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 21:22:22 [127.0.0.1]: 200 OK <- ././ProjectCurs/index.html
+30.04.2023 21:23:51 [INFO] Server is started. Listening on 8080. Timeout on 70 seconds.
+30.04.2023 21:23:51 [INFO] 127.0.0.1 connected to server
+30.04.2023 21:23:51 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 21:23:51 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 21:23:51 [127.0.0.1]: 200 OK <- ././ProjectCurs/index.html
+30.04.2023 21:24:34 [INFO] 127.0.0.1 connected to server
+30.04.2023 21:24:34 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 21:24:34 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 21:24:34 [127.0.0.1]: 200 OK <- ././ProjectCurs/index.html
+30.04.2023 21:30:13 [INFO] Server is started. Listening on 8080. Timeout on 70 seconds.
+30.04.2023 21:30:17 [INFO] 127.0.0.1 connected to server
+30.04.2023 21:30:17 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 21:30:17 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 21:30:17 [127.0.0.1]: 200 OK <- ././ProjectCurs/index.html
+30.04.2023 21:30:50 [INFO] 127.0.0.1 connected to server
+30.04.2023 21:30:50 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 21:30:50 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 21:30:50 [127.0.0.1]: 200 OK <- ././ProjectCurs/index.html
+30.04.2023 21:31:39 [INFO] 127.0.0.1 connected to server
+30.04.2023 21:31:39 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 21:31:39 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 21:31:39 [127.0.0.1]: 200 OK <- ././ProjectCurs/index.html
+30.04.2023 21:31:51 [INFO] 127.0.0.1 connected to server
+30.04.2023 21:31:51 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 21:31:51 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 21:31:51 [127.0.0.1]: 200 OK <- ././ProjectCurs/index.html
+30.04.2023 21:48:42 [INFO] Server is started. Listening on 8080. Timeout on 70 seconds.
+30.04.2023 21:49:07 [INFO] 127.0.0.1 connected to server
+30.04.2023 21:49:07 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 21:49:07 [INFO] 127.0.0.1 tried to use incompatible version of http in request
+30.04.2023 21:49:12 [INFO] Server is started. Listening on 8080. Timeout on 70 seconds.
+30.04.2023 21:49:18 [INFO] 127.0.0.1 connected to server
+30.04.2023 21:49:18 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 21:49:18 [INFO] 127.0.0.1 tried to use incompatible version of http in request
+30.04.2023 21:51:02 [INFO] Server is started. Listening on 8080. Timeout on 70 seconds.
+30.04.2023 21:51:04 [INFO] 127.0.0.1 connected to server
+30.04.2023 21:51:04 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 21:51:04 [INFO] 127.0.0.1 tried to use incompatible version of http in request
+30.04.2023 21:51:24 [INFO] Server is started. Listening on 8080. Timeout on 70 seconds.
+30.04.2023 21:51:25 [INFO] 127.0.0.1 connected to server
+30.04.2023 21:51:25 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 21:51:25 [INFO] 127.0.0.1 tried to use incompatible version of http in request
+30.04.2023 21:52:30 [INFO] Server is started. Listening on 8080. Timeout on 70 seconds.
+30.04.2023 21:52:31 [INFO] 127.0.0.1 connected to server
+30.04.2023 21:52:31 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 21:52:31 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 21:52:31 [127.0.0.1]: 200 OK <- ././ProjectCurs/index.html
+30.04.2023 21:54:15 [INFO] Server is started. Listening on 8080. Timeout on 70 seconds.
+30.04.2023 21:54:27 [INFO] 127.0.0.1 connected to server
+30.04.2023 21:54:27 [INFO] Server is waiting for request from 127.0.0.1
+30.04.2023 21:54:27 [INFO] 127.0.0.1 has just sent request to server
+30.04.2023 21:54:27 [127.0.0.1]: 200 OK <- ././ProjectCurs/index.html
